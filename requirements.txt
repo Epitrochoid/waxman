@@ -1,0 +1,5 @@
+#
+####### waxman requirements.txt #######
+#
+###### Requirements without Version Specifiers ######
+sqlalchemy
